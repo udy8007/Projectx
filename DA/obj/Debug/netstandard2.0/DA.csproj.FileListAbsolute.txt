@@ -1,0 +1,9 @@
+C:\Users\udhayakumar.k\source\repos\WebApplication1\DA\bin\Debug\netstandard2.0\DA.deps.json
+C:\Users\udhayakumar.k\source\repos\WebApplication1\DA\bin\Debug\netstandard2.0\DA.dll
+C:\Users\udhayakumar.k\source\repos\WebApplication1\DA\obj\Debug\netstandard2.0\DA.csproj.CoreCompileInputs.cache
+C:\Users\udhayakumar.k\source\repos\WebApplication1\DA\obj\Debug\netstandard2.0\DA.AssemblyInfoInputs.cache
+C:\Users\udhayakumar.k\source\repos\WebApplication1\DA\obj\Debug\netstandard2.0\DA.AssemblyInfo.cs
+C:\Users\udhayakumar.k\source\repos\WebApplication1\DA\bin\Debug\netstandard2.0\DA.pdb
+C:\Users\udhayakumar.k\source\repos\WebApplication1\DA\obj\Debug\netstandard2.0\DA.dll
+C:\Users\udhayakumar.k\source\repos\WebApplication1\DA\obj\Debug\netstandard2.0\DA.pdb
+C:\Users\udhayakumar.k\source\repos\WebApplication1\DA\obj\Debug\netstandard2.0\DA.csprojAssemblyReference.cache

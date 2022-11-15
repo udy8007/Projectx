@@ -1,0 +1,12 @@
+C:\Users\udhayakumar.k\source\repos\WebApplication1\BA\obj\Debug\netstandard2.0\BA.csprojAssemblyReference.cache
+C:\Users\udhayakumar.k\source\repos\WebApplication1\BA\obj\Debug\netstandard2.0\BA.csproj.CoreCompileInputs.cache
+C:\Users\udhayakumar.k\source\repos\WebApplication1\BA\obj\Debug\netstandard2.0\BA.AssemblyInfoInputs.cache
+C:\Users\udhayakumar.k\source\repos\WebApplication1\BA\obj\Debug\netstandard2.0\BA.AssemblyInfo.cs
+C:\Users\udhayakumar.k\source\repos\WebApplication1\BA\bin\Debug\netstandard2.0\DA.dll
+C:\Users\udhayakumar.k\source\repos\WebApplication1\BA\bin\Debug\netstandard2.0\BA.deps.json
+C:\Users\udhayakumar.k\source\repos\WebApplication1\BA\bin\Debug\netstandard2.0\BA.dll
+C:\Users\udhayakumar.k\source\repos\WebApplication1\BA\bin\Debug\netstandard2.0\BA.pdb
+C:\Users\udhayakumar.k\source\repos\WebApplication1\BA\bin\Debug\netstandard2.0\DA.pdb
+C:\Users\udhayakumar.k\source\repos\WebApplication1\BA\obj\Debug\netstandard2.0\BA.csproj.CopyComplete
+C:\Users\udhayakumar.k\source\repos\WebApplication1\BA\obj\Debug\netstandard2.0\BA.dll
+C:\Users\udhayakumar.k\source\repos\WebApplication1\BA\obj\Debug\netstandard2.0\BA.pdb
