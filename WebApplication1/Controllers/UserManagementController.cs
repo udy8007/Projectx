@@ -54,23 +54,6 @@ namespace WebApplication1.Controllers
                 return BadRequest(" " + ex.Message);
             }
         }
-        [HttpPost("SaveUserDetails")]
-        public async Task<ResponseWithObject<string>> SaveUserDetails([FromBody] TaskvisibilityEscalationDetails ObjTaskvisibilityEscalationDetails)
-        {
-            ResponseWithObject<string> responseObject = new ResponseWithObject<string>();
-
-            try
-            {
-                var response = await _IUserManagementLogic.SaveUserDetails(ObjTaskvisibilityEscalationDetailsDTO, user.UserID);
-                return response;
-            }
-            catch (Exception ex)
-            {
-                responseObject.Errors[0].Message = ex.Message;
-                responseObject.Status = ResponseStatus.FAILURE.ToString();
-                return responseObject;
-            }
-        }
         #endregion
     }
 }
